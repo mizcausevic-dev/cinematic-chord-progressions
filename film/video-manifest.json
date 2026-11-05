@@ -1,0 +1,26 @@
+{
+  "title": "Cinematic Chord Progressions",
+  "study": "cq01",
+  "bpm": 74,
+  "source_audio": "preview/cinematic-chord-progressions-simple-synth-preview.mp3",
+  "source_audio_sha256": "645e8ee81f390bca1851c6c0ef721fadbd5e22ac66d8ef5ddc4ba98219910ad4",
+  "source_midi": "midi/cq01-stone-ring/cq01-stone-ring-combined.mid",
+  "source_midi_sha256": "ea12fffae9b7a9b03e934331602764fc05a81520d1bf464f30350aa9412f8805",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "efce2027d3b6062d9b9bbbec53d10a34c7aa594f5c7a6cde1d498b933dcaf9c9",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "fd9492967e95667e53d0bbaecdda0eade8bea0904680f49e8f776e86f6ee4475",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "8eedd60ce556730c1e08a611c093155afd9cbdb13d1222781b12464322bf7ac1",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+cq01,Stone Ring,pack-local equal-tempered pitch collection,D,74,4/4,480,32,61440,midi/cq01-stone-ring/cq01-stone-ring-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cq02,Long Shadow,pack-local equal-tempered pitch collection,F,74,4/4,480,32,61440,midi/cq02-long-shadow/cq02-long-shadow-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cq03,Silver Sky,pack-local equal-tempered pitch collection,G#,74,4/4,480,32,61440,midi/cq03-silver-sky/cq03-silver-sky-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+cq04,Opening,pack-local equal-tempered pitch collection,D#,74,4/4,480,32,61440,midi/cq04-opening/cq04-opening-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
