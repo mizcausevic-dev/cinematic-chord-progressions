@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-05T14:22:52.769530+00:00",
+  "run_time_utc": "2026-11-06T19:24:35.090451+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -20,8 +20,8 @@
     },
     {
       "path": "midi/cq01-stone-ring/cq01-stone-ring-combined.mid",
-      "bytes": 2828,
-      "sha256": "ea12fffae9b7a9b03e934331602764fc05a81520d1bf464f30350aa9412f8805",
+      "bytes": 2897,
+      "sha256": "98c11502112ad5c1e2042667634b9d60653504fe92d7e51ff84c03d9f9e199dd",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/cq01-stone-ring/principal_motif.mid",
-      "bytes": 472,
-      "sha256": "1ecc725dcad7ee1dc259a67f8b0f6985956d8620b8e85ecfb71b8967ee1c7e24",
+      "bytes": 541,
+      "sha256": "619f23fdbcadb4086aca8e16cd54a22eeacab858a8ccfaf3b0b259cb2863cbc2",
       "errors": []
     },
     {
@@ -62,8 +62,8 @@
     },
     {
       "path": "midi/cq02-long-shadow/cq02-long-shadow-combined.mid",
-      "bytes": 2827,
-      "sha256": "57b01cf9f399fb271a1c5c1b675058fa801b4374ae457a1bdf11152e8477d0cf",
+      "bytes": 2917,
+      "sha256": "bcf2f0b6a48fe111571be88917e528fffe4a69ae690d188831512fb7860ae62d",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/cq02-long-shadow/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "59606119c4b4eb4de8b6d5680df384521345c1aba0dcb588afc18aafadade8d7",
+      "bytes": 561,
+      "sha256": "a71cb6269baf75494043775b50d72217154492f411d3b29386d542cef18bc680",
       "errors": []
     },
     {
@@ -104,8 +104,8 @@
     },
     {
       "path": "midi/cq03-silver-sky/cq03-silver-sky-combined.mid",
-      "bytes": 2809,
-      "sha256": "ce11dda913215b27d96cf367062782845c120a02eec6aad75c9646f18b8bf175",
+      "bytes": 2896,
+      "sha256": "7de06732d619cac4597cfd9033b8adf2a85d62849aab55f58580dc5c8c54bc67",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/cq03-silver-sky/principal_motif.mid",
-      "bytes": 453,
-      "sha256": "a576a8ca2f16de592dce87265a5f80c9bf5bf8b31396dd1a5ac4dab3a161abc7",
+      "bytes": 540,
+      "sha256": "991298ee19cc0c849bbc9807be0f44fd25adc2ed33d899060dc8b6f96d0f2a41",
       "errors": []
     },
     {
@@ -146,8 +146,8 @@
     },
     {
       "path": "midi/cq04-opening/cq04-opening-combined.mid",
-      "bytes": 2809,
-      "sha256": "5cddd7c5bb0af478a406cee5423b4a4edfbfceffcad9dc7698e60b9213f63874",
+      "bytes": 2876,
+      "sha256": "c8753c23a1aff4b36a8e9c1f0fe4f678d008210f03edc36001006812c89a641d",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/cq04-opening/principal_motif.mid",
-      "bytes": 453,
-      "sha256": "07d53059f2f97677bc32f43a2249fdb932097d3da9b7ab6cf9ddcf1c9d96f359",
+      "bytes": 520,
+      "sha256": "043f7934579a281921ad7a00dc49b7c519137c8f0d3a6b8db3dd2a67cd00ce08",
       "errors": []
     },
     {

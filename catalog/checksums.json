@@ -68,8 +68,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 43936,
-      "sha256": "efce2027d3b6062d9b9bbbec53d10a34c7aa594f5c7a6cde1d498b933dcaf9c9"
+      "bytes": 45012,
+      "sha256": "adfce40141a7e3065656e5f737b77ca0654bc3a0c0c50c3a5918e25d612defbe"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -94,7 +94,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 395,
-      "sha256": "791ef53ce50749873c5fafaf2dd91c1178e2ccb6bb8dfbb092e325602a7113ad"
+      "sha256": "3a9c6dc1e0d3fb060c55ca9e0fa0be34afa959567f0e55334cbedc476047a4c7"
     },
     {
       "path": "checks/clip-validation.json",
@@ -108,8 +108,8 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 462,
-      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+      "bytes": 518,
+      "sha256": "547018f6bbe773ac8791defa21ab2c74bdcdedd7135625cbe9bccdd07f49e489"
     },
     {
       "path": "clips/cq01-chord-progression-01.mid",
@@ -198,13 +198,13 @@
     },
     {
       "path": "downloads/cinematic-chord-progressions-midi.zip",
-      "bytes": 22968,
-      "sha256": "439a4fe2523f10b2dd77f897275eef56f4f2613acfb58924ecc9716758a12119"
+      "bytes": 23629,
+      "sha256": "336d829461f34c7191471783f35522dd45b3f2448c219c00884e50b7515b19ef"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2245,
-      "sha256": "b8fadae3bab8c7d98f54867368d37e412e6f283e081787d97aa2318d545bffc2"
+      "bytes": 2230,
+      "sha256": "55c8b3585647ea0b9af5a88cdeb5ee0e15fc6a08b7cf26ddf94d5f32b088f14a"
     },
     {
       "path": "film/motion-overlay.png",
@@ -218,8 +218,8 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 675433,
-      "sha256": "8eedd60ce556730c1e08a611c093155afd9cbdb13d1222781b12464322bf7ac1"
+      "bytes": 657296,
+      "sha256": "6d68a185448257e3a016b22bbcd08e617f4644dc9ff351f050b2bd8e81c0822a"
     },
     {
       "path": "film/preview.vtt",
@@ -228,13 +228,13 @@
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 1190,
-      "sha256": "021801e3b31724167a2a7e9a861188e41df549ff3b50ad9e9d2f075df251dc4a"
+      "bytes": 1216,
+      "sha256": "84b154c2a27d0cdc23ab96c2cb03b6d6f301e2b55c3d4f0becfcf1eb48e3cd50"
     },
     {
       "path": "index.html",
-      "bytes": 9592,
-      "sha256": "ac678f59e3502f3e0c8be54704e88a953e29a6c0769049e058757980b0cab4aa"
+      "bytes": 9810,
+      "sha256": "650c8fea3cafcf7523acae254fce3440c7ad68f87a9d49d8fc9c038278d83b15"
     },
     {
       "path": "midi/cq01-stone-ring/chord_pulse.mid",
@@ -248,8 +248,8 @@
     },
     {
       "path": "midi/cq01-stone-ring/cq01-stone-ring-combined.mid",
-      "bytes": 2828,
-      "sha256": "ea12fffae9b7a9b03e934331602764fc05a81520d1bf464f30350aa9412f8805"
+      "bytes": 2897,
+      "sha256": "98c11502112ad5c1e2042667634b9d60653504fe92d7e51ff84c03d9f9e199dd"
     },
     {
       "path": "midi/cq01-stone-ring/drums.mid",
@@ -258,8 +258,8 @@
     },
     {
       "path": "midi/cq01-stone-ring/principal_motif.mid",
-      "bytes": 472,
-      "sha256": "1ecc725dcad7ee1dc259a67f8b0f6985956d8620b8e85ecfb71b8967ee1c7e24"
+      "bytes": 541,
+      "sha256": "619f23fdbcadb4086aca8e16cd54a22eeacab858a8ccfaf3b0b259cb2863cbc2"
     },
     {
       "path": "midi/cq01-stone-ring/sub_bass.mid",
@@ -283,8 +283,8 @@
     },
     {
       "path": "midi/cq02-long-shadow/cq02-long-shadow-combined.mid",
-      "bytes": 2827,
-      "sha256": "57b01cf9f399fb271a1c5c1b675058fa801b4374ae457a1bdf11152e8477d0cf"
+      "bytes": 2917,
+      "sha256": "bcf2f0b6a48fe111571be88917e528fffe4a69ae690d188831512fb7860ae62d"
     },
     {
       "path": "midi/cq02-long-shadow/drums.mid",
@@ -293,8 +293,8 @@
     },
     {
       "path": "midi/cq02-long-shadow/principal_motif.mid",
-      "bytes": 471,
-      "sha256": "59606119c4b4eb4de8b6d5680df384521345c1aba0dcb588afc18aafadade8d7"
+      "bytes": 561,
+      "sha256": "a71cb6269baf75494043775b50d72217154492f411d3b29386d542cef18bc680"
     },
     {
       "path": "midi/cq02-long-shadow/sub_bass.mid",
@@ -318,8 +318,8 @@
     },
     {
       "path": "midi/cq03-silver-sky/cq03-silver-sky-combined.mid",
-      "bytes": 2809,
-      "sha256": "ce11dda913215b27d96cf367062782845c120a02eec6aad75c9646f18b8bf175"
+      "bytes": 2896,
+      "sha256": "7de06732d619cac4597cfd9033b8adf2a85d62849aab55f58580dc5c8c54bc67"
     },
     {
       "path": "midi/cq03-silver-sky/drums.mid",
@@ -328,8 +328,8 @@
     },
     {
       "path": "midi/cq03-silver-sky/principal_motif.mid",
-      "bytes": 453,
-      "sha256": "a576a8ca2f16de592dce87265a5f80c9bf5bf8b31396dd1a5ac4dab3a161abc7"
+      "bytes": 540,
+      "sha256": "991298ee19cc0c849bbc9807be0f44fd25adc2ed33d899060dc8b6f96d0f2a41"
     },
     {
       "path": "midi/cq03-silver-sky/sub_bass.mid",
@@ -353,8 +353,8 @@
     },
     {
       "path": "midi/cq04-opening/cq04-opening-combined.mid",
-      "bytes": 2809,
-      "sha256": "5cddd7c5bb0af478a406cee5423b4a4edfbfceffcad9dc7698e60b9213f63874"
+      "bytes": 2876,
+      "sha256": "c8753c23a1aff4b36a8e9c1f0fe4f678d008210f03edc36001006812c89a641d"
     },
     {
       "path": "midi/cq04-opening/drums.mid",
@@ -363,8 +363,8 @@
     },
     {
       "path": "midi/cq04-opening/principal_motif.mid",
-      "bytes": 453,
-      "sha256": "07d53059f2f97677bc32f43a2249fdb932097d3da9b7ab6cf9ddcf1c9d96f359"
+      "bytes": 520,
+      "sha256": "043f7934579a281921ad7a00dc49b7c519137c8f0d3a6b8db3dd2a67cd00ce08"
     },
     {
       "path": "midi/cq04-opening/sub_bass.mid",
@@ -379,17 +379,22 @@
     {
       "path": "preview/cinematic-chord-progressions-simple-synth-preview.mp3",
       "bytes": 2504664,
-      "sha256": "645e8ee81f390bca1851c6c0ef721fadbd5e22ac66d8ef5ddc4ba98219910ad4"
+      "sha256": "ac06bbc40185d1ea46de1929babd8dbc15fcd7cfe73b4f9f26ba14e7ef266e4a"
     },
     {
       "path": "preview/preview-manifest.json",
       "bytes": 1140,
-      "sha256": "fb24ec377aaf2616b68172019408d47df5a4e3334e2fc707650cca75473d4c2e"
+      "sha256": "8b29d57ccc2cb32afe9d06a185a4d1771263844cbb5b2d76376e100e951a29ea"
     },
     {
       "path": "README.md",
-      "bytes": 3909,
-      "sha256": "ded718d566ace84538574f0a16c79cdf46deb67e95278def08bcac597763c993"
+      "bytes": 4075,
+      "sha256": "5dbb7cc3b652ddaec73573a2dd44251d6e67cc90b9dfc07716bd8dd71e5a1b60"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 459,
+      "sha256": "3eacf0353039d04726de89d5e30850da6403bf4512bef6bf71ca90ebfdb2ee1f"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -423,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 92811,
-      "sha256": "a909c86d9cced0fc837b0ce3a2509056f0d1ae600cf48dc48e8baabd440cffee"
+      "bytes": 93231,
+      "sha256": "3c0261a336a20222ccf7832f1559291c8ad668f8b9a9ff8697c90ce013e08829"
     },
     {
       "path": "tools/polish_release.py",

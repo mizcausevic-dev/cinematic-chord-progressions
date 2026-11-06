@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/cinematic-chord-progressions-simple-synth-preview.mp3",
-  "preview_sha256": "645e8ee81f390bca1851c6c0ef721fadbd5e22ac66d8ef5ddc4ba98219910ad4",
+  "preview_sha256": "ac06bbc40185d1ea46de1929babd8dbc15fcd7cfe73b4f9f26ba14e7ef266e4a",
   "source_midi_path": "midi/cq01-stone-ring/cq01-stone-ring-combined.mid",
-  "source_midi_sha256": "ea12fffae9b7a9b03e934331602764fc05a81520d1bf464f30350aa9412f8805",
+  "source_midi_sha256": "98c11502112ad5c1e2042667634b9d60653504fe92d7e51ff84c03d9f9e199dd",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 103.784
   },
   "measurement": {
-    "sample_peak": 0.149325,
+    "sample_peak": 0.177694,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
