@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/cinematic-chord-progressions-midi.zip",
-      "bytes": 23629,
-      "sha256": "336d829461f34c7191471783f35522dd45b3f2448c219c00884e50b7515b19ef"
+      "bytes": 24983,
+      "sha256": "845328ebc8db6cc45f27c7a7dfc1f38951127ab65acc91816f144a2bdb53c178"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9810,
-      "sha256": "650c8fea3cafcf7523acae254fce3440c7ad68f87a9d49d8fc9c038278d83b15"
+      "bytes": 10000,
+      "sha256": "0c15afac10ddc788a90ebd7cae65f25f039b5bb8135ff3f7f80218eb75386cde"
     },
     {
       "path": "midi/cq01-stone-ring/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "be16cbd72c95148ae370747c2f3c41d15b8d1ade04cb7d5ed1623114e0cf6401"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/cinematic-chord-progressions-simple-synth-preview.mp3",
       "bytes": 2504664,
       "sha256": "ac06bbc40185d1ea46de1929babd8dbc15fcd7cfe73b4f9f26ba14e7ef266e4a"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4075,
-      "sha256": "5dbb7cc3b652ddaec73573a2dd44251d6e67cc90b9dfc07716bd8dd71e5a1b60"
+      "bytes": 4190,
+      "sha256": "fd439894365e981c11f7625eb0b584244b3cbd68cb23249a9bfe35d905dd7cd7"
     },
     {
       "path": "REVISION.md",
